@@ -1,0 +1,77 @@
+ p{color: white;
+  
+  text-align: left;
+  width: 100%;
+  
+   font-size: 28px;
+   /*font-weight: bold;*/
+font-weight: 900;
+ 
+}
+body {
+ background-image: url("../images/background2.jpg");
+
+}
+div.contact{
+display: box;
+margin-left: auto;
+    margin-right: auto;
+max-width: 1500px;
+padding:150px 0;
+ text-align: center;
+
+}
+h1 {
+  color: white;
+  font-size: 90px;
+ 
+  text-transform: uppercase;
+font-weight: 900;
+
+text-align: center;
+}
+
+
+
+
+.header{
+text-align: center;
+}
+.header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  height: 80px;
+font-size: 22px;
+padding:10px 0;
+
+
+}
+
+.header li {
+  display: inline-block;
+}
+
+.header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.header li a:hover {
+  background-color: #111;
+}
+
+
+
+img {
+  width: 60px;
+  height: 60px;
+float: left;
+padding: 20px 20px 20px 35% ;
+}
